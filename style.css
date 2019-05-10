@@ -1,0 +1,8 @@
+body {
+  background-color: aqua;
+}
+.card-title,
+.card-text {
+  text-align: center;
+  color: blueviolet;
+}
