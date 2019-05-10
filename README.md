@@ -1,1 +1,2 @@
-![Sketch](Knipsel.jpg)
+- [x] Added initial markup
+- [x] Created a graphic sketch with MS word.
