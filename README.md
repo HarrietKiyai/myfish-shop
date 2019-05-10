@@ -1,1 +1,1 @@
-![Sketch](Knipsel.png)
+![Sketch](Knipsel.jpg)
